@@ -1,104 +1,240 @@
-[
-  {
-    "level": 1,
-    "imageSize": [
-      289,
-      279
-    ],
-    "alphaBounds": [
-      23,
-      28,
-      266,
-      262
-    ],
-    "contentSize": [
-      243,
-      234
-    ]
-  },
-  {
-    "level": 2,
-    "imageSize": [
-      199,
-      188
-    ],
-    "alphaBounds": [
-      5,
-      2,
-      197,
-      188
-    ],
-    "contentSize": [
-      192,
-      186
-    ]
-  },
-  {
-    "level": 3,
-    "imageSize": [
-      246,
-      246
-    ],
-    "alphaBounds": [
-      42,
-      38,
-      200,
-      190
-    ],
-    "contentSize": [
-      158,
-      152
-    ]
-  },
-  {
-    "level": 4,
-    "imageSize": [
-      2731,
-      2778
-    ],
-    "alphaBounds": [
-      16,
-      0,
-      2731,
-      2778
-    ],
-    "contentSize": [
-      2715,
-      2778
-    ]
-  },
-  {
-    "level": 5,
-    "imageSize": [
-      793,
-      746
-    ],
-    "alphaBounds": [
-      0,
-      0,
-      793,
-      746
-    ],
-    "contentSize": [
-      793,
-      746
-    ]
-  },
-  {
-    "level": 6,
-    "imageSize": [
-      349,
-      291
-    ],
-    "alphaBounds": [
-      82,
-      26,
-      267,
-      194
-    ],
-    "contentSize": [
-      185,
-      168
-    ]
-  }
-]
+{
+  "stage1": [
+    {
+      "file": "01.png",
+      "canvas": [
+        254,
+        269
+      ],
+      "alphaBounds": [
+        0,
+        3,
+        254,
+        269
+      ],
+      "boundsSize": [
+        254,
+        266
+      ],
+      "boundsAreaRatio": 0.9888
+    },
+    {
+      "file": "02.png",
+      "canvas": [
+        540,
+        486
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        540,
+        486
+      ],
+      "boundsSize": [
+        540,
+        486
+      ],
+      "boundsAreaRatio": 1.0
+    },
+    {
+      "file": "03.png",
+      "canvas": [
+        285,
+        273
+      ],
+      "alphaBounds": [
+        25,
+        16,
+        266,
+        257
+      ],
+      "boundsSize": [
+        241,
+        241
+      ],
+      "boundsAreaRatio": 0.7465
+    },
+    {
+      "file": "04.png",
+      "canvas": [
+        1260,
+        1260
+      ],
+      "alphaBounds": [
+        173,
+        90,
+        1133,
+        1076
+      ],
+      "boundsSize": [
+        960,
+        986
+      ],
+      "boundsAreaRatio": 0.5962
+    },
+    {
+      "file": "05.png",
+      "canvas": [
+        292,
+        258
+      ],
+      "alphaBounds": [
+        8,
+        21,
+        258,
+        258
+      ],
+      "boundsSize": [
+        250,
+        237
+      ],
+      "boundsAreaRatio": 0.7865
+    },
+    {
+      "file": "06.png",
+      "canvas": [
+        297,
+        227
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        248,
+        227
+      ],
+      "boundsSize": [
+        248,
+        227
+      ],
+      "boundsAreaRatio": 0.835
+    },
+    {
+      "file": "07.png",
+      "canvas": [
+        300,
+        235
+      ],
+      "alphaBounds": [
+        23,
+        0,
+        280,
+        233
+      ],
+      "boundsSize": [
+        257,
+        233
+      ],
+      "boundsAreaRatio": 0.8494
+    }
+  ],
+  "stage2": [
+    {
+      "file": "1.png",
+      "canvas": [
+        289,
+        279
+      ],
+      "alphaBounds": [
+        23,
+        28,
+        266,
+        262
+      ],
+      "boundsSize": [
+        243,
+        234
+      ],
+      "boundsAreaRatio": 0.7052
+    },
+    {
+      "file": "2.png",
+      "canvas": [
+        199,
+        188
+      ],
+      "alphaBounds": [
+        5,
+        2,
+        197,
+        188
+      ],
+      "boundsSize": [
+        192,
+        186
+      ],
+      "boundsAreaRatio": 0.9546
+    },
+    {
+      "file": "3.png",
+      "canvas": [
+        246,
+        246
+      ],
+      "alphaBounds": [
+        42,
+        38,
+        200,
+        190
+      ],
+      "boundsSize": [
+        158,
+        152
+      ],
+      "boundsAreaRatio": 0.3969
+    },
+    {
+      "file": "4.png",
+      "canvas": [
+        2731,
+        2778
+      ],
+      "alphaBounds": [
+        16,
+        0,
+        2731,
+        2778
+      ],
+      "boundsSize": [
+        2715,
+        2778
+      ],
+      "boundsAreaRatio": 0.9941
+    },
+    {
+      "file": "5.png",
+      "canvas": [
+        793,
+        746
+      ],
+      "alphaBounds": [
+        0,
+        0,
+        793,
+        746
+      ],
+      "boundsSize": [
+        793,
+        746
+      ],
+      "boundsAreaRatio": 1.0
+    },
+    {
+      "file": "6.png",
+      "canvas": [
+        349,
+        291
+      ],
+      "alphaBounds": [
+        82,
+        26,
+        267,
+        194
+      ],
+      "boundsSize": [
+        185,
+        168
+      ],
+      "boundsAreaRatio": 0.306
+    }
+  ]
+}

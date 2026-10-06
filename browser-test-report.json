@@ -1,12 +1,33 @@
 {
-  "productionReady": true,
+  "productionBuild": true,
   "errors": [],
-  "ui": {
-    "width": 390,
-    "scrollWidth": 390,
-    "removedElements": 0,
-    "touchAction": "none",
-    "images": true
-  },
-  "reset": "0"
+  "viewports": [
+    {
+      "width": 390,
+      "height": 844,
+      "scrollWidth": 390,
+      "scrollHeight": 844,
+      "canvas": [354, 472],
+      "touchAction": "none",
+      "highDpi": true,
+      "pointerDrop": true,
+      "brokenImages": 0
+    },
+    {
+      "width": 412,
+      "height": 915,
+      "scrollWidth": 412,
+      "scrollHeight": 915,
+      "canvas": [376, 501],
+      "touchAction": "none",
+      "highDpi": true,
+      "pointerDrop": true,
+      "brokenImages": 0
+    }
+  ],
+  "stageOne": {
+    "title": "第一关 · 合成大西瓜",
+    "progress": "最高级消除 0/5",
+    "levelImages": 7
+  }
 }
