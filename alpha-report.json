@@ -1,0 +1,104 @@
+[
+  {
+    "level": 1,
+    "imageSize": [
+      289,
+      279
+    ],
+    "alphaBounds": [
+      23,
+      28,
+      266,
+      262
+    ],
+    "contentSize": [
+      243,
+      234
+    ]
+  },
+  {
+    "level": 2,
+    "imageSize": [
+      199,
+      188
+    ],
+    "alphaBounds": [
+      5,
+      2,
+      197,
+      188
+    ],
+    "contentSize": [
+      192,
+      186
+    ]
+  },
+  {
+    "level": 3,
+    "imageSize": [
+      246,
+      246
+    ],
+    "alphaBounds": [
+      42,
+      38,
+      200,
+      190
+    ],
+    "contentSize": [
+      158,
+      152
+    ]
+  },
+  {
+    "level": 4,
+    "imageSize": [
+      2731,
+      2778
+    ],
+    "alphaBounds": [
+      16,
+      0,
+      2731,
+      2778
+    ],
+    "contentSize": [
+      2715,
+      2778
+    ]
+  },
+  {
+    "level": 5,
+    "imageSize": [
+      793,
+      746
+    ],
+    "alphaBounds": [
+      0,
+      0,
+      793,
+      746
+    ],
+    "contentSize": [
+      793,
+      746
+    ]
+  },
+  {
+    "level": 6,
+    "imageSize": [
+      349,
+      291
+    ],
+    "alphaBounds": [
+      82,
+      26,
+      267,
+      194
+    ],
+    "contentSize": [
+      185,
+      168
+    ]
+  }
+]
