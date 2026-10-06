@@ -1,0 +1,12 @@
+{
+  "productionReady": true,
+  "errors": [],
+  "ui": {
+    "width": 390,
+    "scrollWidth": 390,
+    "removedElements": 0,
+    "touchAction": "none",
+    "images": true
+  },
+  "reset": "0"
+}
